@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxJavaSubscribeBug</string>
+    <string name="wrong_way">Wrong way</string>
+    <string name="right_way">Right Way</string>
+</resources>
